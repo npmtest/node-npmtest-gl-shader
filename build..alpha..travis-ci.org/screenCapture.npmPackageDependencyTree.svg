@@ -1,0 +1,26 @@
+<svg height="366" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="366" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">1 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ gl-shader@4.2.1 </tspan>
+<tspan x="10" y="90">  ├─┬ gl-format-compiler-error@1.0.2 </tspan>
+<tspan x="10" y="106">  │ ├─┬ add-line-numbers@1.0.1 </tspan>
+<tspan x="10" y="122">  │ │ └─┬ pad-left@1.0.2 </tspan>
+<tspan x="10" y="138">  │ │   └── repeat-string@1.6.1 </tspan>
+<tspan x="10" y="154">  │ ├── gl-constants@1.0.0 </tspan>
+<tspan x="10" y="170">  │ ├─┬ glsl-shader-name@1.0.0 </tspan>
+<tspan x="10" y="186">  │ │ ├── atob-lite@1.0.0 </tspan>
+<tspan x="10" y="202">  │ │ └─┬ glsl-tokenizer@2.1.2 </tspan>
+<tspan x="10" y="218">  │ │   └─┬ through2@0.6.5 </tspan>
+<tspan x="10" y="234">  │ │     ├─┬ readable-stream@1.0.34 </tspan>
+<tspan x="10" y="250">  │ │     │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="266">  │ │     │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="282">  │ │     │ ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="298">  │ │     │ └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="314">  │ │     └── xtend@4.0.1 </tspan>
+<tspan x="10" y="330">  │ └── sprintf-js@1.0.3 </tspan>
+<tspan x="10" y="346">  └── weakmap-shim@1.1.1</tspan>
+</text>
+</svg>
